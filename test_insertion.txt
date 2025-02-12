@@ -1,0 +1,12 @@
+For the input size:10
+The total time of execution is:0.000002
+For the input size:100
+The total time of execution is:0.000015
+For the input size:1000
+The total time of execution is:0.000642
+For the input size:10000
+The total time of execution is:0.027858
+For the input size:100000
+The total time of execution is:2.426925
+For the input size:1000000
+The total time of execution is:266.408570
